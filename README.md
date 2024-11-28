@@ -1,0 +1,1 @@
+Chrome extension to move your stop loss to break even on TradingView.
